@@ -15,7 +15,7 @@ def predict(carat_weight, cut, color, clarity, polish, symmetry, report):
     data.columns = ['Carat Weight', 'Cut', 'Color', 'Clarity', 'Polish', 'Symmetry', 'Report']
 
     predictions = predict_model(model, data=data) 
-    return {'prediction': int(predictions['Label'][0])}
+    return int(predictions['Label'][0])
 
 
 carat_weight = st.number_input("Enter carat weight ")
