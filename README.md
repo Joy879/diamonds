@@ -14,7 +14,7 @@ A small demo on how to do an end-to-end data science project and deploy your mod
 ## FastAPI
  * [Official documentation](https://fastapi.tiangolo.com/tutorial/)
  * [How to deploy models using FastAPI to Heroku](https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/)
- * [How to deploy models using FastAPI to Deta](https://fastapi.tiangolo.com/deployment/deta/)
+ * [How to deploy FastAPI to Deta](https://fastapi.tiangolo.com/deployment/deta/)
  * [How to authenticate](https://www.fastapitutorial.com/blog/authentication-in-fastapi/)
  * [API guide](https://rapidapi.com/blog/how-to-use-an-api-with-python/)
 
