@@ -1,4 +1,4 @@
-#### End-to-End ML Pipeline
+# End-to-End ML Pipeline
 
 A small demo on how to do an end-to-end data science project and deploy your model.
 
