@@ -18,11 +18,8 @@ A small demo on how to do an end-to-end data science project and deploy your mod
  * [How to authenticate](https://www.fastapitutorial.com/blog/authentication-in-fastapi/)
  * [API guide](https://rapidapi.com/blog/how-to-use-an-api-with-python/)
 
-###### Pycharm virtual environments
- [How to](https://www.google.com/search?q=windows+how+to+create+a+virtual+environment+using+pycharm&sxsrf=ALiCzsYIR_tI36on-tQ6Y-d4LrDcPuGm_A:1658953147590&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjjmL6I8pn5AhUBxhoKHcYAAsoQ_AUoAXoECAEQAw&biw=1536&bih=792&dpr=1.25)
+###### [Pycharm virtual environments](https://www.google.com/search?q=windows+how+to+create+a+virtual+environment+using+pycharm&sxsrf=ALiCzsYIR_tI36on-tQ6Y-d4LrDcPuGm_A:1658953147590&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjjmL6I8pn5AhUBxhoKHcYAAsoQ_AUoAXoECAEQAw&biw=1536&bih=792&dpr=1.25)
  
-###### VSCode virtual environments
- [How to](https://code.visualstudio.com/docs/python/environments)
+###### [VSCode virtual environments](https://code.visualstudio.com/docs/python/environments)
  
-###### Anaconda virtual environments
- [How to](https://docs.anaconda.com/navigator/tutorials/manage-environments/)
+###### [Anaconda virtual environments](https://docs.anaconda.com/navigator/tutorials/manage-environments/)
