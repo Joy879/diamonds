@@ -2,7 +2,7 @@
 
 A small demo on how to do an end-to-end data science project and deploy your model.
 
-### Tools used
+# Tools
 ## Pycaret
 
 * [Official documentation](https://pycaret.gitbook.io/docs/)
