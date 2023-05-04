@@ -1,6 +1,6 @@
 # End-to-End ML Pipeline
 
-A small demo on how to do an end-to-end data science project and deploy your model. Also check out the many courses in the list below
+A small demo on how to do an end-to-end data science project and deploy your model. Also check out the many courses in the [list](https://github.com/Joy879/diamonds#more-resources) below
 
 # Tools
 ## Pycaret
