@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 import pandas as pd
-from pycaret.regression import load_model, predict_model
+
 
 st.title('Diamond App')
 
